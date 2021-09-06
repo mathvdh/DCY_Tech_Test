@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: scicloj/notespace:3-beta9">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/scicloj/notespace/3-beta9/notespace-3-beta9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
