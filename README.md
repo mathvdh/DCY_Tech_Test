@@ -1,44 +1,18 @@
 # DCY Tech Test
 
-This is a github containing a clojure leiningen project that you will use in order to do the DCY Technical Test.
+This is a github repository containing a clojure leiningen project that you will use in order to do the DCY Technical Test.
 
-## Installation
+Please fork it, solve the tests in `src/io/dcy/tech_test/test_core.clj`
 
-This is a standard leiningen project targetting clojure 1.10.1
+Follow the comments in this file and code the solutions until all the tests pass.
 
-## Usage
+When you are done you can submit a Pull Request from your fork !
 
-FIXME: explanation
+It should be quite simple, and you are asked to share you screen while doing the test.
 
-    $ java -jar io.dcy.tech-test-0.1.0-standalone.jar [args]
+You can ask any questions you like to the interviewer.
 
-## Options
+It shouldn't last more than 30 minutes.
 
-FIXME: listing of options this app accepts.
+Good luck !
 
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2021 FIXME
-
-This program and the accompanying materials are made available under the
-terms of the Eclipse Public License 2.0 which is available at
-http://www.eclipse.org/legal/epl-2.0.
-
-This Source Code may also be made available under the following Secondary
-Licenses when the conditions for such availability set forth in the Eclipse
-Public License, v. 2.0 are satisfied: GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or (at your
-option) any later version, with the GNU Classpath Exception which is available
-at https://www.gnu.org/software/classpath/license.html.

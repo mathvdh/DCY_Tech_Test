@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Leiningen: keybind:2.2.0">
-    <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/keybind/keybind/2.2.0/keybind-2.2.0.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
